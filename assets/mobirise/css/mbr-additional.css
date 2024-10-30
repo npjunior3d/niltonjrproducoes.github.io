@@ -1154,6 +1154,20 @@ section.lazy-placeholder:after {
 .cid-urQcVEMMUK H1 {
   color: #fff7f7;
 }
+.cid-usJzbDxmvI {
+  background: #073b4c;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #073b4c, #ff3366);
+}
+.cid-usJzbDxmvI .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-usJzbDxmvI .video-block {
+    width: 100% !important;
+  }
+}
 .cid-urQdh623No {
   padding-top: 90px;
   padding-bottom: 75px;
