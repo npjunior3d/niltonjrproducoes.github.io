@@ -1137,10 +1137,32 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
   }
 }
+.cid-uunCKfuXd0 {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-uunCKfuXd0 .image-block {
+  margin: auto;
+}
+.cid-uunCKfuXd0 figcaption {
+  position: relative;
+}
+.cid-uunCKfuXd0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-uunCKfuXd0 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-urQcVEMMUK {
   padding-top: 30px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/ai-1344x768.jpg");
+  background-image: url("../../../assets/images/screenshot-16-768x434.png");
 }
 .cid-urQcVEMMUK H3 {
   color: #f7ed4a;
